@@ -68,7 +68,9 @@ Tic-Tac-Toe-C/
 
 ├── capture d'ecran/
 
-│   └── game-screenshot.png
+│   └── interface.png
+    └── progress.png
+    └── winner.png
 
 │
 
@@ -128,7 +130,16 @@ A personal programming project developed as part of my learning journey in Compu
 
 \## 📌 Project Status
 
+## 📸 Screenshots
 
+### Game Interface
+![Game Interface](<capture d'ecran/interface.png>)
+
+### Game Progress
+![Game Progress](<capture d'ecran/progress.png>)
+
+### Winner Display
+![Winner](<capture d'ecran/winner.png>)
 
 \*\*Completed\*\*
 
