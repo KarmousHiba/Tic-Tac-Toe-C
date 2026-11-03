@@ -1,0 +1,14 @@
+# Executable files
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# IDE temporary files
+*.layout
+*.depend
+
+# Temporary files
+*.tmp
+*.bak
