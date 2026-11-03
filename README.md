@@ -58,3 +58,5 @@ A simple Tic Tac Toe game developed in C.
 
 Personal programming project.
 
+Project status: Completed
+
